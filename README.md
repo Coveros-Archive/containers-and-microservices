@@ -1,23 +1,15 @@
-# serverless-handson
+# containers and microservices
+Various support artifacts for the CI/CD Microservices course.
 
-Various support artifacts for the Microservices and Serverless course.
+**Make sure to visit the [_Wiki_](https://github.com/Coveros/containers-and-microservices/wiki) area in this repository project within GitHub for useful links and files needed for the course.**
 
-**Make sure to visit the _Snippets_ area in this repository project within Gitlab
-for useful links and files needed for the course.**
+This training session makes heavy use of the SecureCI demo instance and the Codeveros demo application that are maintained by Coveros.
 
-https://gitlab.com/coveros/microservice_serverless/serverless-handson/-/snippets
-
-This training session makes heavy use of the SecureCI demo instance and the CodeVeros demo 
-application that are maintained by Coveros.
-
-You can download the repository for SecureCI here:
+You can clone the repository for SecureCI here:
 
 https://gitlab.com/coveros/secureci/securecidemo-jenkins-k8s
 
-CodeVeros is available from the class-based Gitlab fork as well as it's primary home in
-Github.
+Codeveros is available in GitHub:
 
-https://gitlab.com/coveros/microservice_serverless/codeveros - class-based home
-
-https://github.com/Coveros/codeveros - Github development home
+https://github.com/Coveros/codeveros
 
